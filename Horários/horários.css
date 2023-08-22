@@ -1,0 +1,58 @@
+.lado {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    
+}
+
+.Segunda-feira {
+    text-align:center;
+    background-color: palegoldenrod;
+}
+
+.cupid {
+    text-align: center;
+}
+
+.Pink {
+    background-color: pink;
+    text-align: center;
+}
+
+.BP {
+    background-color: sandybrown;
+    text-align: center;
+}
+
+.livre {
+    text-align: center;
+}
+
+.INTERVALO {
+    background-color: grey;
+    text-align: center;
+}
+
+.Iam {
+    background-color: orange;
+    text-align: center;
+}
+
+.Yellow {
+    background-color: yellow;
+    text-align: center;
+}
+
+.Purple {
+    background-color: mediumpurple;
+    text-align: center;
+}
+
+.Twice {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.Hate {
+    background-color: lavender;
+    text-align: center;
+}
